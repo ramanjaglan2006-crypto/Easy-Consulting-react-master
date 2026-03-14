@@ -101,6 +101,6 @@ What you get here:
 
 ## Contact
 
-Raman Kumar - [LinkedIn](https://www.linkedin.com/in/raman-kumar)
+Raman Kumar - [LinkedIn](https://www.linkedin.com/in/raman-kumar-700192290/)
 
 Project Link: [https://github.com/raman-kumar/portfolio-project](https://github.com/raman-kumar/portfolio-project)

@@ -40,9 +40,9 @@ const Footer = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link onClick={scrollUP} to="/">
+                            <a href="https://www.linkedin.com/in/raman-kumar-700192290/" target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon icon={faLinkedinIn}/>
-                            </Link>
+                            </a>
                         </li>
                     </ul>
                 </Col>
